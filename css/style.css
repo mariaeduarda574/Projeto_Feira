@@ -203,7 +203,8 @@ video{ width:100%; border-radius:12px; display:block; background:#000; }
 .timeline-item h4{ margin:0 0 2px; font-size:1rem; }
 .timeline-item p{ margin:0; color:var(--ink-soft); font-size:.9rem; }
 
-footer{ padding:34px clamp(20px,5vw,56px); text-align:center; color:var(--ink-soft); font-size:.9rem; border-top:1px solid var(--line); }
+footer{margin-top: 
+padding:34px clamp(20px,5vw,56px); text-align:center; color:var(--ink-soft); font-size:.9rem; border-top:1px solid var(--line); }
 
 /* Floating accessibility dock — present on every page */
 .a11y-dock{
