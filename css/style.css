@@ -59,7 +59,7 @@ header.top{
 }
 .logo{ display:flex; align-items:center; gap:12px; text-decoration:none; }
 .logo-mark{
-  width:40px;height:40px;border-radius:10px;
+  width:10px;height:10px;border-radius:10px;
   background:linear-gradient(135deg,var(--teal),var(--teal-dark));
   display:grid;place-items:center;color:#fff;font-family:'Fraunces',serif;font-weight:700;font-size:20px;
   flex-shrink:0;
